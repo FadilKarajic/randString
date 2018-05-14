@@ -1,0 +1,20 @@
+{
+  "name": "randstring",
+  "version": "0.0.1",
+  "description": "generate random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "generate",
+    "random",
+    "string"
+  ],
+  "author": "Fadil Karajic",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "random-string-simple": "^1.0.1"
+  }
+}
